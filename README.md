@@ -47,16 +47,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔗 Blockchain-Powered Medical Record Storer
-- Built a decentralized medical record system using **Solidity smart contracts**  
-- Developed frontend using **React.js & Redux**  
-- Integrated blockchain interaction using **Ethers.js**  
-- Focused on **data security and access control**  
-
----
-
 ## 📈 What I Do
 
 - Analyze datasets to extract meaningful insights  
