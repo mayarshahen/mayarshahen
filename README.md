@@ -68,16 +68,14 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/mayar-salah-4b9a3a296" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mayar%20Salah-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/mayar-salah-4b9a3a296">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mayarsalah262@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
