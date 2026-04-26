@@ -68,7 +68,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/mayar-salah-4b9a3a296">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
